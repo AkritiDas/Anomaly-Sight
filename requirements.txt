@@ -1,0 +1,6 @@
+pymongo
+streamlit
+streamlit-option-menu
+pandas
+matplotlib 
+seaborn
